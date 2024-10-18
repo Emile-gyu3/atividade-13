@@ -1,0 +1,2 @@
+PS C:\Users\Usuarios\Desktop\Emile Roberto 1º B\emile roberto> python3 -m venv .venv
+PS C:\Users\Usuarios\Desktop\Emile Roberto 1º B\emile roberto> source .venv/bin/activate
